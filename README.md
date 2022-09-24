@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="150"/>
+</div>
 
-<!--
-**Passssa/Passssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
 
-Here are some ideas to get you started:
+I am a intern/junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia(Moscow).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :zap: I am a 3rd year student in applied mathematics and informatics.
+- :desktop_computer: Also I'm studing in School 21 by Sber.
+- :telescope: I’m go in for Data scince and Artificial Intelligence, Programmig in Python3 and C, Math.
+- :clipboard: My resume: https://docs.google.com/document/d/1x5Y2IRw8iNgj8sIpHeCqVQlhkBj8--utXELiwCSZsIY/edit?usp=sharing
+- :briefcase: Actively looking for a job 
+- :mailbox: My tg: @passss_a. My email: alyonapash@gmail.com
+
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
+</div>
