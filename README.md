@@ -8,7 +8,7 @@ I am a intern/junior Data Scientist <img src="https://media.giphy.com/media/WUlp
 
 - :zap: I am a 3rd year student in Applied Mathematics and Information Technologies.
 - :desktop_computer: Also I'm studing in School 21 by Sber.
-- :telescope: I’m go in for Data scince and Artificial Intelligence, Programmig in Python3 and C, Math.
+- :telescope: I’m go in for Data scince and Artificial Intelligence, Programmig in Python3, C and C++, Math.
 - :clipboard: My resume: https://docs.google.com/document/d/1x5Y2IRw8iNgj8sIpHeCqVQlhkBj8--utXELiwCSZsIY/edit?usp=sharing
 - :briefcase: Actively looking for a job 
 - :mailbox: My tg: @passss_a. My email: alyonapash@gmail.com
