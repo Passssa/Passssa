@@ -4,8 +4,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a intern/junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia(Moscow).
+I am a junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia(Moscow).
 
+- 🤓 I work as an data analyst in Sirius.Courses
 - :zap: I am a 3rd year student in Applied Mathematics and Information Technologies.
 - :desktop_computer: Also I'm studing in School 21 by Sber.
 - :telescope: I’m go in for Data scince and Artificial Intelligence, Programmig in Python3, C and C++, Math.
