@@ -6,7 +6,7 @@
 
 I am a junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia(Moscow).
 
-- :briefcase: I work as an junior data scientist/data analyst in Sirius.Courses
+- :briefcase: I work as an data scientist/data analyst in Sirius.Courses
 - :zap: I am a 3rd year student in Applied Mathematics and Information Technologies.
 - :desktop_computer: Also I'm studing in School 21 by Sber.
 - :telescope: I’m go in for Data science and Artificial Intelligence, Programmig in Python3, C and C++, Math.
