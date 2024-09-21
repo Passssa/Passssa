@@ -1,6 +1,3 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="150"/>
-</div>
 
 ### :woman_technologist: About Me :
 
